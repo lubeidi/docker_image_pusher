@@ -4,5 +4,6 @@
 #docker.io/library/node:16
 #xhofe/alist:latest
 golang:alpine
+alpine
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
